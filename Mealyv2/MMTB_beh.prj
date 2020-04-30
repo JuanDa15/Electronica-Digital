@@ -1,0 +1,2 @@
+vhdl work "Mealy.vhd"
+vhdl work "mealyTb.vhd"

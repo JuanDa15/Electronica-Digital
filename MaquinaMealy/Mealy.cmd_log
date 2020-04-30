@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Jdoo1/Documents/ElectronicaDigital/MaquinaMealy/Mealy.xst" -ofn "C:/Users/Jdoo1/Documents/ElectronicaDigital/MaquinaMealy/Mealy.syr" 
+netgen -intstyle ise -ar Structure -tm Mealy -w -dir netgen/synthesis -ofmt vhdl -sim Mealy.ngc Mealy_synthesis.vhd 

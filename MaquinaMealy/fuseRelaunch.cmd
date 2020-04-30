@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Jdoo1/Documents/ElectronicaDigital/MaquinaMealy/MMTB_isim_beh.exe" -prj "C:/Users/Jdoo1/Documents/ElectronicaDigital/MaquinaMealy/MMTB_beh.prj" "work.MMTB" 
